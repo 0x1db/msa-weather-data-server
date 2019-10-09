@@ -1,4 +1,4 @@
-package cn.wangyu.msaweatherdataserver;
+package cn.wangyu.springcloud.weather;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

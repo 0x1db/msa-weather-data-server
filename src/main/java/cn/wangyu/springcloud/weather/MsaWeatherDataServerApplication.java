@@ -1,4 +1,4 @@
-package cn.wangyu.msaweatherdataserver;
+package cn.wangyu.springcloud.weather;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
